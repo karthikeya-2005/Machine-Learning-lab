@@ -6,11 +6,10 @@ Labs
 2) Lab2 : pandas
 3) lab3 : Feature Engineering
 4) lab4 : Logistic Regression Scracth Implementation
-5) lab5 : Linear Regression Scracth Implementation (Courseera)
-6) lab6 : Linear Regression end to end
-7) lab7 : KNN
-8) lab8 : Data Visualization (Univariate)
-9) lab9 : Data Visualization (Bivariate)
+5) lab6 : Linear Regression end to end
+6) lab7 : KNN
+7) lab8 : Data Visualization (Univariate)
+8) lab9 : Data Visualization (Bivariate)
 
 Coursera
 1) Logistic regression with numpy and python
