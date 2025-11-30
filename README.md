@@ -18,6 +18,7 @@ Coursera
 4) navie bayes 101 : resume selection with machine learning
 5) linear regession with python
 6) create interactive dashboards with streamlit and python
+7) NLP: Twitter Sentiment Analysis
 
 Deeplearning.ai
 1) Agentic AI
