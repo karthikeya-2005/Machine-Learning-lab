@@ -17,10 +17,9 @@ Coursera
 2) Breast Cancer prediction using machine learning
 3) support vector machines in python from start to finish
 4) navie bayes 101 : resume selection with machine learning
-5) nlp twitter sentiment analysis
-6) linear regession with python
-7) python for data visualization : matplotlib & seaborn
-8) create interactive dashboards with streamlit and python
+5) linear regession with python
+6) python for data visualization : matplotlib & seaborn
+7) create interactive dashboards with streamlit and python
 
 Deeplearning.ai
 1) Agentic AI
