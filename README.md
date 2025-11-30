@@ -19,6 +19,7 @@ Coursera
 5) linear regession with python
 6) create interactive dashboards with streamlit and python
 7) NLP: Twitter Sentiment Analysis
+8) k means clustering 101 : world happiness report
 
 Deeplearning.ai
 1) Agentic AI
